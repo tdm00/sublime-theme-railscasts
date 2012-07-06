@@ -4,7 +4,7 @@ Dark UI theme for Sublime Text 2 based on [Ryan Bates](http://railscasts.com/abo
 
 
 
-![Railscasts Theme](http://cl.ly/431w0I1N2f213A0h2z3g/Railscasts2.jpg.jpg "Railscasts Theme")
+![Railscasts Theme](http://cl.ly/2F1T1a3a2T1Z2c3F071W/Screen%20Shot%202012-07-06%20at%208.26.52%20AM.png "Railscasts Theme")
 
 ## Installation
 
