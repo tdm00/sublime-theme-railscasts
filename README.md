@@ -10,7 +10,7 @@ Dark UI theme for Sublime Text 2 based on [Ryan Bates](http://railscasts.com/abo
 
 ### Using Sublime Package Control
 
-If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install the RailsCasts Theme via the `Package Control: Install Package` menu item. The RailsCasts theme package is listed as `Theme - RailsCasts` in the packages list.
+If you are using Will Bond's excellent [Sublime Package Control](http://wbond.net/sublime_packages/package_control), you can easily install the RailsCasts Theme via the `Package Control: Install Package` menu item. The RailsCasts theme package is listed as `RailsCasts Colour Scheme` in the packages list.
 
 ### Code Font
 
