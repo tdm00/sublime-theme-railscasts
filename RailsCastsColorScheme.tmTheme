@@ -28,11 +28,6 @@
       <string>ERB</string>
       <key>scope</key>
       <string>source.ruby.embedded, source.ruby.rails.embedded</string>
-      <key>settings</key>
-      <dict>
-        <key>background</key>
-        <string>#1F1F1F</string>
-      </dict>
     </dict>
     <dict>
       <key>name</key>
