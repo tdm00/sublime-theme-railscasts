@@ -22,7 +22,7 @@
         <key>selection</key>
         <string>#676f87</string>
         <key>selectionForeground</key>
-        <string>#222222</string>
+        <string>#ffffff</string>
         <key>inactiveSelection</key>
         <string>#D25D25</string>
         <key>inactiveSelectionForeground</key>
